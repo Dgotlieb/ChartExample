@@ -5,7 +5,7 @@ entries:
       description: Create a basic nginx HTTP server
       digest: aaff4545f79d8b2913a10cb400ebb6fa9c77fe813287afbacf1a0b897cdffffff
       home: https://k8s.io/helm
-      name: nginx
+      name: test1
       sources:
       - https://github.com/helm/charts
       urls:
