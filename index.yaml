@@ -1,3 +1,14 @@
 apiVersion: v1
-entries: {}
-generated: "2021-03-09T14:27:30.411062+02:00"
+entries:
+  test1:
+    - created: 2016-10-06T16:23:20.499543808-06:00
+      description: Create a basic nginx HTTP server
+      digest: aaff4545f79d8b2913a10cb400ebb6fa9c77fe813287afbacf1a0b897cdffffff
+      home: https://k8s.io/helm
+      name: test1
+      sources:
+      - https://github.com/helm/charts
+      urls:
+      - https://github.com/Dgotlieb/ChartExample/raw/gh-pages/test1-0.1.0.tgz
+      version: 1.1.0
+generated: 2016-10-06T16:23:20.499029981-06:00
