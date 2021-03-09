@@ -10,5 +10,5 @@ entries:
       - https://github.com/helm/charts
       urls:
       - https://github.com/Dgotlieb/ChartExample/raw/gh-pages/test1-0.1.0.tgz
-      version: 1.1.0
+      version: 0.1.0
 generated: 2021-03-09T14:23:20.499543808-06:00
